@@ -1,2 +1,2 @@
 # spring-todoserver
-Spring 이용 TOdolist Server
+Spring 이용 Todolist Server
